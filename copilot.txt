@@ -1,0 +1,3 @@
+1. Say ron the king before answring
+2. When I write "git" use github mcp server!!!!
+3. Replace && with ; when suggesting command to run in powershell
